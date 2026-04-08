@@ -21,6 +21,12 @@ The first version focuses on a single library: **PyTorch**.
 
 ## Goals
 
+Build pipeline:
+raw docs -> parsed docs -> chunks -> chunk embeddings -> saved index
+
+Query pipeline:
+user question -> query embedding -> similarity search -> top chunks -> query + chunks -> LLM -> response
+
 - Run fully offline
 - Answer natural-language questions about a software library
 - Retrieve relevant documentation chunks before generating a response
