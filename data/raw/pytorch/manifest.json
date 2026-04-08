@@ -1,0 +1,27 @@
+[
+  {
+    "source_url": "https://docs.pytorch.org/docs/stable/index.html",
+    "local_path": "E:\\VS Projects\\RAGnarok\\RAGnarok\\data\\raw\\pytorch\\index.html",
+    "status_code": 200
+  },
+  {
+    "source_url": "https://docs.pytorch.org/docs/stable/torch.html",
+    "local_path": "E:\\VS Projects\\RAGnarok\\RAGnarok\\data\\raw\\pytorch\\torch.html",
+    "status_code": 200
+  },
+  {
+    "source_url": "https://docs.pytorch.org/docs/stable/tensors.html",
+    "local_path": "E:\\VS Projects\\RAGnarok\\RAGnarok\\data\\raw\\pytorch\\tensors.html",
+    "status_code": 200
+  },
+  {
+    "source_url": "https://docs.pytorch.org/docs/stable/generated/torch.add.html",
+    "local_path": "E:\\VS Projects\\RAGnarok\\RAGnarok\\data\\raw\\pytorch\\generated__torch.add.html",
+    "status_code": 200
+  },
+  {
+    "source_url": "https://docs.pytorch.org/docs/stable/generated/torch.Tensor.add.html",
+    "local_path": "E:\\VS Projects\\RAGnarok\\RAGnarok\\data\\raw\\pytorch\\generated__torch.Tensor.add.html",
+    "status_code": 200
+  }
+]

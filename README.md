@@ -19,6 +19,13 @@ the system works entirely offline using a local snapshot of documentation and lo
 
 The first version focuses on a single library: **PyTorch**.
 
+## Notes
+```python
+from __future__ import annotations
+```
+It should be noted the above snippet may not work in later versions past Python 3.13.12
+Create a bug report and I will update it to support the latest version of python.
+
 ## Goals
 
 Build pipeline:
